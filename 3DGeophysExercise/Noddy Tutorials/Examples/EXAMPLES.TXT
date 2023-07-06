@@ -1,0 +1,35 @@
+Example Noddy Files					
+
+This directory contains a simple set of example Noddy histories together 
+with gravity and magnetic files and some pictures of block diagrams, maps 
+& total field images, in windows .BMP format.
+
+In many of the directories there will be three sets of models, which will 
+contain the following code in the filename:
+
+"3" a three layer system, middle layer high density/susceptibility
+"lo" a two layer system, lower layer high density/susceptibility
+"hi" a two layer system, higher layer high density/susceptibility
+
+m20ofau: Vertical dyke with strike slip faults cutting it at 20 degrees
+m45ofau: Vertical dyke with strike slip faults cutting it at 45 degrees
+
+mfolds: Folds plunging at various angles to the north and south
+
+minterf2: Irregular fold interference pattern
+mintref1: Regular basin and dome fold interference patterns
+
+mnorm2: Normal fault cutting horizontal sheets
+
+mpopup1: Pop-up fault structure cutting horizontal sheets
+
+mrev2a: 
+mrev2b: Various reverse faults cutting horizontal sheets
+mrev2c: 
+
+mrevsh2c: Various normal shear zones cutting horizontal sheets
+
+msciss1: Scissor fault cutting horizontal sheets
+msciss2: Scissor fault cutting horizontal sheets
+
+mvert: Folded vertical dyke
