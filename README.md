@@ -7,7 +7,7 @@
 ### Noddyverse Example   
 http://13.211.217.129/6IAS/integrated-data-vis%202.html
 
-#Things to know and do
+## Things to know and do
 
 **Location:**
 The building is 46 ([map](https://github.com/Loop3D/6IAS/blob/main/NotreDame_Campus%20Map_FREMANTLE%202023_R1.pdf)). The physical Google Maps address is 25 Phillimore St, Fremantle WA 6160.
