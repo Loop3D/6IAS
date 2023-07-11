@@ -21,5 +21,5 @@ A laptop, preferably with a “Windows” OS for using Noddy (see below) and pow
  
 **There are hands-on exercises. To take part, you will need:**
 A Google account (for Google Colab).
-Access to the workshop git repository. This may require a Github account. You will find the workshop materials in there (currently a work-in-progress).
+The workshop materials are in here (currently a work-in-progress).
 Install the ‘Noddy’ application – installer here. You’ll need administrator access to install, so please get in touch with your IT people if required.
