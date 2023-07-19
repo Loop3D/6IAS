@@ -24,7 +24,10 @@ The workshop materials are in here (currently a work-in-progress).
 Install the ‘Noddy’ application – installer is 'OpenNoddy_installer.exe' in the repository. You’ll need administrator access to install, so please get in touch with your IT people if required.
 
 
-## Noddyverse Examples   
+## Noddyverse Examples 
+
+To Access these examples, right-click on a link and select Open link in new tab   
+   
 http://13.211.217.129/6IAS/integrated-data-vis%202.html   
 http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse_TILT_TILT-integrated-N905-perplexity80.html   
 http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse-integrated-N100-perplexity200.html   
