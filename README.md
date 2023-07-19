@@ -4,8 +4,7 @@
 
 ![image](https://github.com/Loop3D/6IAS/assets/7147085/ed445d7c-cc9a-4e2b-a614-427cd91c9a6f)
 
-### Noddyverse Example   
-http://13.211.217.129/6IAS/integrated-data-vis%202.html
+
 
 ## Things to know and do
 
@@ -23,3 +22,10 @@ A laptop, preferably with a “Windows” OS for using Noddy (see below) and pow
 A Google account (for Google Colab).
 The workshop materials are in here (currently a work-in-progress).
 Install the ‘Noddy’ application – installer is 'OpenNoddy_installer.exe' in the repository. You’ll need administrator access to install, so please get in touch with your IT people if required.
+
+
+## Noddyverse Examples   
+http://13.211.217.129/6IAS/integrated-data-vis%202.html   
+http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse_TILT_TILT-integrated-N905-perplexity80.html   
+http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse-integrated-N100-perplexity200.html   
+http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse-integrated-N905-perplexity500.html   
