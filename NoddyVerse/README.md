@@ -4,7 +4,7 @@
 
 ## Noddyverse Examples 
 
-To Access these examples, right-click on a link and select Open link in new tab   
+To access these examples, **right-click on a link** and select Open link in new tab   
    
 http://13.211.217.129/6IAS/integrated-data-vis%202.html   
 http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse_TILT_TILT-integrated-N905-perplexity80.html   
