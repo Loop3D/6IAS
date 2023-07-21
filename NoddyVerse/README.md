@@ -2,7 +2,7 @@
  6IAS Workshop
 
 
-## Noddyverse Examples 
+## NoddyVerse Examples 
 
 To access these examples, **right-click on a link** and select Open link in new tab   
    
