@@ -32,3 +32,44 @@ http://13.211.217.129/6IAS/integrated-data-vis%202.html
 http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse_TILT_TILT-integrated-N905-perplexity80.html   
 http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse-integrated-N100-perplexity200.html   
 http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse-integrated-N905-perplexity500.html   
+
+## Source Codes   
+
+### map2loop   
+- Extracts features from geological maps to feed 3D LoopStructural modelling engine   
+- https://github.com/Loop3D/map2loop-2
+- https://github.com/Loop3D/map2loop2-notebooks
+
+### LoopStructural
+- Calculates time-aware 3D geological models
+- https://github.com/Loop3D/LoopStructural   
+- 
+
+### LoopUI   
+- Provides several functions to analyse the variability among an ensemble of voxets
+- https://github.com/Loop3D/loopUI
+
+### GKM- Geological Knowledge Manager
+- Ontology and knowledge base for the Loop 3D geology project
+- https://github.com/Loop3D/GKM
+
+### LoopFlow
+- Generate graphs from Loop Models and calculate flow parameters based on these graphs
+- https://github.com/Loop3D/LoopFlow
+
+### Tomofast-x
+- 3D Parallel gravity & magnetic inversion package
+- https://github.com/TOMOFAST/Tomofast-x
+
+### grd_loader   
+- QGIS Plugin to load single-band binary Geosoft grids
+- https://github.com/Loop3D/grd_loader
+
+## Publications
+
+### Loop Project Home Page
+- https://loop3d.org/
+
+### Loop Publications Page
+- https://loop3d.org/downloads.html
+
