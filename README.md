@@ -43,7 +43,6 @@ http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse-integrated-N905-
 ### LoopStructural
 - Calculates time-aware 3D geological models
 - https://github.com/Loop3D/LoopStructural   
-- 
 
 ### LoopUI   
 - Provides several functions to analyse the variability among an ensemble of voxets
@@ -57,6 +56,10 @@ http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse-integrated-N905-
 - Generate graphs from Loop Models and calculate flow parameters based on these graphs
 - https://github.com/Loop3D/LoopFlow
 
+### EnsembleGenerator
+- Library that perturbes the input data in the LoopProjectFile
+- https://github.com/Loop3D/EnsebleGenerator_LoopProjectFile/tree/master
+
 ### Tomofast-x
 - 3D Parallel gravity & magnetic inversion package
 - https://github.com/TOMOFAST/Tomofast-x
@@ -64,6 +67,10 @@ http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse-integrated-N905-
 ### grd_loader   
 - QGIS Plugin to load single-band binary Geosoft grids
 - https://github.com/Loop3D/grd_loader
+
+### Noddyverse
+- C Code to generate random Noddy models, with example notebook to visualise randomly selected models from 1M model suite
+- https://github.com/Loop3D/noddyverse
 
 ## Publications
 
