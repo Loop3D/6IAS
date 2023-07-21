@@ -70,6 +70,6 @@ http://13.211.217.129/6IAS/InteractivePlot-df_t-sne_noddy-verse-integrated-N905-
 ### Loop Project Home Page
 - https://loop3d.org/
 
-### Loop Publications Page
+### Loop Publications Page (Select Publications tab)
 - https://loop3d.org/downloads.html
 
