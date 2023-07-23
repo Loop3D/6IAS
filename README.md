@@ -63,6 +63,10 @@ Install the ‘Noddy’ application – installer is 'OpenNoddy_installer.exe' i
 - C Code to generate random Noddy models, with example notebook to visualise randomly selected models from 1M model suite
 - https://github.com/Loop3D/noddyverse
 
+### Kalgoorlie Test Study
+- Notebooks to build Kalgoorlie model using LoopStructural
+- https://github.com/Loop3D/Kalgoorlie_3Dmodelling
+
 ## Publications
 
 ### Loop Project Home Page
